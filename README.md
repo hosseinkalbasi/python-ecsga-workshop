@@ -7,7 +7,7 @@
 #### Objectives: 
 * Learn Python Programming
 * Analyze Data with Python
-* Develop Web Application Using Python and Django
+* Develop Web Application with Python
 
 
 # Installation
