@@ -41,7 +41,7 @@ open Anaconda Prompt and follow these steps:
 
 * enter: ```conda create --name myenv python=3.7```
 
-* enter: ```activate myenv (or source activate myenv for MacOS)```
+* enter: ```activate myenv``` (or ```source activate myenv``` for MacOS and Linux)
 
 * enter: ```conda install pip```
 
