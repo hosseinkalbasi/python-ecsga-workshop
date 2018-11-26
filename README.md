@@ -69,7 +69,7 @@ Useful link: Conda Cheat Sheet https://conda.io/docs/_downloads/conda-cheatsheet
 Refer to the repository. Look for files with .py and .ipynb extensions
 
 # Python Development using Django
-Refer to Django folder. The project structure is like this:
+Refer to Python Development folder. The project structure is like this:
 
 ```
 mysiteproj/
