@@ -62,7 +62,10 @@ print(sys.executable)
 It should print the python path to your virtual environment (you should be able to see the name "myenv" in the path)
 * good job! happy Python coding!
 
-Useful link: Conda Cheat Sheet https://conda.io/docs/_downloads/conda-cheatsheet.pdf
+Useful links: 
+
+* Conda Cheat Sheet https://conda.io/docs/_downloads/conda-cheatsheet.pdf
+* Anaconda Environments: https://medium.com/data-science-in-practice/saving-the-environment-with-anaconda-ad68e603d8c5
 
 
 # Data Analysis with Python
