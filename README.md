@@ -1,9 +1,14 @@
 
 # Data Analysis and Python Development Workshop
-#### Place: Concordia University, Montreal, QC
 #### Level: Beginner to Advanced
 #### Instructor: Hossein Kalbasi
-#### Objectives: Learn Python Programming, Analyze Data with Python, Develop Web Application Using Python and Django
+#### Place: Concordia University, Montreal, QC
+#### Organizer: ECSGA (Engineering and Computer Science Graduate Students Association)
+#### Objectives: 
+* Learn Python Programming
+* Analyze Data with Python
+* Develop Web Application Using Python and Django
+
 
 # Installation
 install Anaconda https://www.anaconda.com/download/
