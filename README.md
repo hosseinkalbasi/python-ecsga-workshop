@@ -79,10 +79,10 @@ mysiteproj/
 └── manage.py
 ```
 
-* cd to the first mysiteproj directory where manage.py file is
 * activate your virtual environment
 * ``` conda install django == 2.1 ```
 
+* cd to the first mysiteproj directory where manage.py file is
 make sure migrations are done at Django:
 
 ``` python manage.py migrate ```
