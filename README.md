@@ -83,7 +83,7 @@ mysiteproj/
 ```
 
 * activate your virtual environment
-* ``` conda install django == 2.1 ```
+* ``` conda install django==2.1 ```
 
 * cd to the first mysiteproj directory where manage.py file is
 
